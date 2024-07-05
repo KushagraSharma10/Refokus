@@ -3,10 +3,10 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: "Santoshi";
-    src: url("../public/fonts/Satoshi.otf");
+    font-family: "Satoshi";
+    src: url("../public/fonts/Satoshi-Regular.otf");
 }
 @font-face {
-    font-family: "Santoshi";
-    src: url("../public/fonts/Satoshi.woff2");
+    font-family: "Satoshi";
+    src: url("../public/fonts/Satoshi-Regular.woff2");
 }
